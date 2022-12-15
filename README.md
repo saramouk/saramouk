@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sara</h1>
+<h1 align="center">Hi, I'm Sara</h1>
 <h3 align="center">A passionate data scientist from Zurich</h3>
 
 - 🔭 I’m currently working on [a tension predictor](https://saramouk-conflict-streamlit-app-iyvo4g.streamlit.app/)
